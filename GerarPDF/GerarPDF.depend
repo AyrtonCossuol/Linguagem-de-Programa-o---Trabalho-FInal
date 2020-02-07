@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1574269272 source:c:\users\luan\desktop\novo_trabalho\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	"api.h"
+
+1574269359 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\api.h
+	<detail/capi.h>
+	<detail/errcodes.h>
+	<detail/version.h>
+	<detail/cppapi.h>
+
+1574269320 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\capi.h
+	<detail/c_prologue.h>
+
+1574269331 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\c_prologue.h
+	<detail/types.h>
+
+1574269338 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\types.h
+	<detail/config.h>
+
+1254956546 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\config.h
+
+1574269345 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\errcodes.h
+	<detail/types.h>
+
+1574269353 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\version.h
+	<detail/types.h>
+
+1574269367 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\cppapi.h
+	<detail/cpp_prologue.h>
+
+1574269374 c:\users\luan\desktop\novo_trabalho\gerarpdf\jagpdf-1.4.0.win32.x86.c_cpp\include\jagpdf\detail\cpp_prologue.h
+	<detail/capi.h>
+	<exception>
+	<string.h>
+
+1574724358 source:c:\users\luan\desktop\novo_trabalho\gerarpdf\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	"api.h"
+

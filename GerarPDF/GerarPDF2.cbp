@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GerarPDF2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GerarPDF2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Users/Ayrton Cossuol/Desktop/Novo_Trabalho/GerarPDF/jagpdf-1.4.0.win32.x86.c_cpp/include" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/Users/Ayrton Cossuol/Desktop/Novo_Trabalho/GerarPDF/jagpdf-1.4.0.win32.x86.c_cpp/lib/jagpdf-1.4.lib" />
+					<Add directory="C:/Users/Ayrton Cossuol/Desktop/Novo_Trabalho/GerarPDF/jagpdf-1.4.0.win32.x86.c_cpp/include" />
+					<Add directory="C:/Users/Ayrton Cossuol/Desktop/Novo_Trabalho/GerarPDF/jagpdf-1.4.0.win32.x86.c_cpp/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GerarPDF2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/api.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/c_prologue.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/capi.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/config.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/cpp_prologue.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/cppapi.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/errcodes.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/types.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/include/jagpdf/detail/version.h" />
+		<Unit filename="jagpdf-1.4.0.win32.x86.c_cpp/lib/jagpdf-1.4.dll" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

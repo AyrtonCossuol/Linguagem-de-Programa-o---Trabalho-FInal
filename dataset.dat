@@ -1,0 +1,17 @@
+000 ERRO | Divisao por Zero                 |  Data: 27/11/2019   |   Horario: 01:15:48  |
+101 ERRO | Raiz Negativa                    |  Data: 27/11/2019   |   Horario: 01:15:53  |
+000 ERRO | Divisao por Zero                 |  Data: 27/11/2019   |   Horario: 01:15:56  |
+000 ERRO | Divisao por Zero                 |  Data: 27/11/2019   |   Horario: 01:16:08  |
+404 ERRO | Dado nao e uma data        |  Data: 27/11/2019   |   Horario: 01:16:18  |
+404 ERRO | Dado nao e uma data        |  Data: 27/11/2019   |   Horario: 01:16:26  |
+000 ERRO | Divisao por Zero                 |  Data: 27/11/2019   |   Horario: 01:58:06  |
+101 ERRO | Raiz Negativa                    |  Data: 27/11/2019   |   Horario: 01:58:11  |
+202 ERRO | Dado nao e um numero     |  Data: 27/11/2019   |   Horario: 01:58:17  |
+303 ERRO | Dado nao e uma letra        |  Data: 27/11/2019   |   Horario: 01:58:23  |
+707 ERRO | Erro ao redimensionar        |  Data: 27/11/2019   |   Horario: 01:58:32  |
+808 ERRO | Erro de alocacao de char   |  Data: 27/11/2019   |   Horario: 01:58:52  |
+000 ERRO | Divisao por Zero                 |  Data: 27/11/2019   |   Horario: 09:03:39  |
+101 ERRO | Raiz Negativa                    |  Data: 27/11/2019   |   Horario: 09:04:16  |
+202 ERRO | Dado nao e um numero     |  Data: 27/11/2019   |   Horario: 09:04:26  |
+303 ERRO | Dado nao e uma letra        |  Data: 27/11/2019   |   Horario: 09:04:41  |
+606 ERRO | Index fora do limite             |Data: 27/11/2019   |   Horario: 09:06:04  |
